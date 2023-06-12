@@ -34,7 +34,7 @@
 }
 
 .home{
-    background-image: linear-gradient( #db1ccb,#e722e7);
+    background-image: linear-gradient( #db1ccb,#a707a7);
     color: var(--textos);
     display:grid;
     grid-template-columns: 50% 50%;
